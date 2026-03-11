@@ -41,3 +41,6 @@ In this task, I built a `Calculator` class with methods for basic arithmetic ope
 - Clone the repository
 - Navigate to the task folder
 - Run with: `dart run task1/number_analysis.dart` or `dart run task2/calculator_app.dart`
+=======
+# dart-fundamentals-assignment-
+>>>>>>> 24b76534ff20abc3475f81235c4fb25e8e4da5d7
